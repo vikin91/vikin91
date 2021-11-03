@@ -1,6 +1,6 @@
 ### Hej, hej 👋
 
-My name is Piotr, I currently work as Software Developer at Data4Life gGmbH.
+My name is Piotr, I currently work as Senior Software Developer at Red Hat in the Advanced Cluster Security team.
 
 - 🔭 I’m currently working with Golang.
 - 🌱 I’m currently learning Rust :crab:.
