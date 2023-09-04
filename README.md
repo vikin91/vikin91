@@ -10,7 +10,7 @@ My name is Piotr, I currently work as Senior Software Developer at Red Hat in th
   - [Personal CV page](https://rygielski.dev) (recruiters are kindly asked to read before contacting)
   - [Twitter](https://twitter.com/vikin91), 
   - [LinkedIn](https://www.linkedin.com/in/rygielski/)
-- :earth_africa: Berlin, Germany
+- :earth_africa: Flensburg area, Germany
 
 ---
 ⭐️ From [vikin91](https://github.com/vikin91)
